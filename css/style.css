@@ -1,0 +1,214 @@
+/*header page start*/
+
+.bg-header{
+    background-color: #0f3661;
+}
+.bg-header-color{
+    background-color: #f2f2f2;
+}
+.eng{
+    text-decoration: none;
+    text-align: right;
+    /*font-size: 12px;*/
+     margin-bottom: 2px;
+    color: grey;
+}
+.right-float{
+    float: right;
+}
+.color-nav{background-color: #0f3661 !important;}
+
+.bg-color{ color: #f25454!important;}
+
+.navbar-nav li a:hover
+{
+    color:  #f25454!important;
+}
+/*header page end*/
+
+/*slider page Start*/
+.bg-color-carousel{color: #0e3e7f;}
+.h-200{ height: 500px;}
+.my-carousel
+{
+    position: absolute;
+    top: 135px;
+    left: -630px;
+}
+.carousel-caption:hover a
+{
+    background-color: #0e3e7f;
+}
+.carousel-control-prev-icon
+{
+    background-color: #1abc9c;
+    position: absolute;
+    padding: 30px;
+    top: 200px;
+    left: 0;
+}
+.carousel-control-next-icon
+{
+    background-color: #1abc9c;
+    position: absolute;
+    padding: 30px;
+    top: 200px;
+    right: 0;
+}
+/*slider page end*/
+
+/*<!--    Successful Business start-->*/
+.card-hover:hover a
+{
+    background-color: #0e3e7f;
+}
+/*<!--    Successful Business end-->*/
+
+/*Our Industry start*/
+.background-industry-img
+{
+    height: 500px;
+    background-image: url("../img/5.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.inner-bg-industry
+{
+    background-color: rgba(14,64,127,0.65);
+    height: 100%;
+}
+.line-span
+{
+    width: 175px;
+    height: 10px;
+    background-color: #f25454;
+    /*color: red;*/
+    margin-left: 42%;
+}
+.feature-card:hover i,
+.feature-card:hover h5,
+.feature-card:hover p
+{
+    /*color: #0e3e7f;*/
+    background-color: #0e3e7f;
+    color: white;
+}
+/*Our Industry end*/
+
+/*Our Pricing start*/
+.bg-pricing-img{
+    height: 600px;
+    background-image: url("../img/6.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.inner-bg-pricing
+{
+    background-color: rgba(14,64,127,0.65);
+    height: 100%;
+}
+.bg-span
+{
+    font-size: 30px;
+}
+.pricing-hover:hover a
+{
+    background-color: #f25454 !important;
+}
+.h-30-pri
+{
+    font-size: 30px;
+}
+
+/*Our Pricing end*/
+
+/*Latest News start*/
+.img-h-100{height: 200px;}
+ .date-color
+ {
+     color: #f25454;
+ }
+ .feature-card-news:hover h4
+ {
+     //background-color: #0e3e7f;
+     color: #f25454;
+ }
+/*Latest News end*/
+
+/*location page start*/
+.bg-location-img
+{
+    background-image: url("../img/4 (1).jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.inner-bg
+{
+    background-color: rgba(14,64,127,0.65);
+    height: 100%;
+}
+.name
+{
+    float: left;
+    margin-top: 2px;
+    width: 45%;
+    position: absolute;
+
+}
+.name1
+{
+    float: right;
+    width: 45%;
+    margin-top: 2px;
+    position: relative;
+}
+.name3
+{
+    float: left;
+    margin-top: 2px;
+    width: 45%;
+    position: absolute;
+}
+.name4
+{
+    float: right;
+    width: 45%;
+    margin-top: 2px;
+    position: relative;
+}
+.value-hover:hover .name4
+{
+    background-color: #0e3e7f;
+}
+
+/*location page end*/
+
+/*img section start*/
+.bg-img-ol
+{
+    height: 200px;
+    width: 100%;
+}
+/*img section end*/
+
+/*footer page start*/
+.bg-footer
+{
+    //background-color: #062399;
+    //background-color: #22276E;
+    background-color: #152238;
+    //background-color: rgb(11,11,69);
+}
+.nav li:hover a
+{ color: #f25454 !important;}
+.button-hover:hover .sub-button
+{
+    background-color: #0e3e7f;
+}
+/*footer page end*/
+
+/****************************************************/
